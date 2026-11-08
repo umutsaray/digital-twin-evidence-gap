@@ -1,0 +1,101 @@
+rid,stratum,popN,sampN,ai_dtl,ai_ev,my_dtl,my_ev,primary,title
+R001,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Trust By Design: Enabling Responsible Precision Health Through Blockchain-Powered Digital Twins And Trusted AI.
+R002,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,"Digital Twins for Predictive, Preventive Personalized, and Participatory Treatment of Immune-Mediated Diseases."
+R003,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Cognitive rehabilitation in multiple sclerosis: Three digital ingredients to address current and future priorities.
+R004,Clinical,14,14,3.0,Prospective,3.0,Prospective,Y,Smart contact lens-trained digital twin for device-free personalized uric acid prediction.
+R005,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,Cloud-Based Digital Twins: Revolutionizing Healthcare Monitoring and Management: A Comprehensive Review
+R006,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,"Digital twin assisted surgery, concept, opportunities, and challenges."
+R007,Clinical,14,14,3.0,RealWorld,3.0,TechPoC,Y,Digital twins in healthcare: An architectural proposal and its application in a social distancing case study
+R008,Clinical,14,14,5.0,RealWorld,,Retrospective,Y,Explainable and Personalized AI Models for Real-Time Diagnostic Accuracy and Treatment Optimization in Healthcare
+R009,Retrospective,38,10,0.0,Retrospective,0.0,Conceptual,N,Healthcare in the Era of Digital twins: towards a Domain-Specific Taxonomy
+R010,NA/Other,20,6,3.0,,,Conceptual,N,Artificial Intelligence for Cardiovascular Care in Action: From Learning to Implementation in Health Systems.
+R011,Tech PoC,30,10,3.0,TechPoC,3.0,TechPoC,Y,Digital Twin in Healthcare Through the Eyes of the Vitruvian Man
+R012,Conceptual,326,42,2.0,Conceptual,0.0,Conceptual,N,Digital twins in medicine: a critical analysis of the applicability of the industrial paradigm
+R013,Clinical,14,14,4.0,Prospective,3.0,Prospective,Y,Development and verification of a digital twin patient model to predict specific treatment response during the first 24 hours of sepsis
+R014,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,A Proposal to Evolving Towards Digital Twins in Healthcare
+R015,Tech PoC,30,10,0.0,TechPoC,0.0,Conceptual,N,Enhancing healthcare through sensor-enabled digital twins in smart environments: A comprehensive analysis
+R016,Clinical,14,14,0.0,External,,,N,Maturity model for the implementation of digital twins in a brazilian public health unit
+R017,Tech PoC,30,10,3.0,TechPoC,3.0,TechPoC,Y,Model‐based digital twins of medicine dispensers for healthcare IoT applications
+R018,Clinical,14,14,3.0,Prospective,1.0,Retrospective,Y,Time Series Models of the Human Heart in Patients with Heart Failure: Toward a Digital Twin Approach.
+R019,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,Transforming Healthcare: Exploring the Impact and Potential of Digital Twin Technology
+R020,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,"Digital twins for trans people in healthcare: queer, phenomenological and bioethical considerations."
+R021,Simulation,88,18,3.0,Simulation,1.0,Simulation,Y,Patient-specific microvascular computational modeling for estimating radiotherapy outcomes.
+R022,Simulation,88,18,4.0,Simulation,0.0,Conceptual,N,Development of digital twins in medicine: ai-driven patient simulations for optimizing endocrine disorder therapies
+R023,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Health care in the cyberspace: Medical cyber-physical system and digital twin challenges
+R024,Tech PoC,30,10,3.0,TechPoC,3.0,Retrospective,Y,From Fragmented to Integrated: Transforming Emergency Healthcare Delivery through Digital Twin Technology
+R025,Conceptual,326,42,4.0,Conceptual,0.0,Conceptual,N,Digital twins in healthcare and biomedicine
+R026,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Building digital life systems for future biology and medicine.
+R027,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Medical Digital Twin Technology for Interoperability: Challenges and Opportunities.
+R028,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,The use and ethics of digital twins in medicine
+R029,Conceptual,326,42,2.0,Conceptual,0.0,Conceptual,N,Virtual medicine: Utilization of the advanced cardiac imaging patient avatar for procedural planning and facilitation.
+R030,Clinical,14,14,4.0,Prospective,3.0,Prospective,Y,Medical Digital Twins for Personalized Chronic Care
+R031,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Health digital twins in life science and health care innovation
+R032,Simulation,88,18,3.0,Simulation,0.0,Conceptual,N,AI for Personalized Digital Twins in Healthcare: Using Machine Learning to Create Virtual Patient Models for Disease Simulation and Treatment Prediction
+R033,Simulation,88,18,0.0,Simulation,0.0,Conceptual,N,Virtual imaging trials in medicine: A brief takeaway of the lessons from the first international summit.
+R034,Simulation,88,18,3.0,Simulation,2.0,Simulation,Y,Digital Twins for Decision Making: Combining Ambulance and ED Facility Resources.
+R035,Tech PoC,30,10,4.0,TechPoC,3.0,TechPoC,Y,"A dual doctor-patient twin paradigm for transparent remote examination, diagnosis, and rehabilitation"
+R036,Tech PoC,30,10,3.0,TechPoC,3.0,TechPoC,Y,Development and Validation of a Kinematically Accurate Upper-Limb Exoskeleton Digital Twin for Stroke Rehabilitation.
+R037,Tech PoC,30,10,3.0,TechPoC,3.0,TechPoC,Y,Personalized Diabetes Management with Digital Twins: A Patient-Centric Knowledge Graph Approach
+R038,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Toward Smart and Adaptive Endovascular Devices: The Role of Digital Twins in Precision Vascular Medicine.
+R039,Simulation,88,18,3.0,Simulation,0.0,Conceptual,N,"Digital Twins in Healthcare: State of the Art, Bibliometric Analysis and Future Perspectives"
+R040,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,"Digital twin-assisted surgery: technological architecture, integration across surgical phases, implementation challenges and future directions."
+R041,Retrospective,38,10,0.0,Retrospective,,Conceptual,N,"Using the Non-Adoption, Abandonment, Scale-Up, Spread, and Sustainability (NASSS) Framework to Identify Barriers and Facilitators for the Implementation of Digital Twins in Cardiovascular Medicine."
+R042,Simulation,88,18,0.0,Simulation,,Conceptual,N,Sex matters: the frequently overlooked importance of considering sex in computational models.
+R043,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,Y,Machine learning models for personalised healthcare on marketable generative-AI with ethical implications
+R044,Simulation,88,18,0.0,Simulation,1.0,Simulation,Y,Control of Medical Digital Twins with Artificial Neural Networks.
+R045,Conceptual,326,42,4.0,Conceptual,0.0,Conceptual,N,"From Bedside to Bytes: Monitor, Model, and Manage with Digital Twins to Unlock Precision Critical Care in the ICU (Preprint)"
+R046,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,A digital twin approach for transforming prescription drug labeling.
+R047,Retrospective,38,10,3.0,Retrospective,1.0,Retrospective,Y,ClinicalGAN: powering patient monitoring in clinical trials with patient digital twins
+R048,Retrospective,38,10,0.0,Retrospective,0.0,Conceptual,N,"Digital Twins in Neuro-Oncology: A Systematic Review of Current Implementations, Technical Strategies, and Clinical Applications."
+R049,Simulation,88,18,2.0,Simulation,1.0,Simulation,Y,Building a modular and multi-cellular virtual twin of the synovial joint in Rheumatoid Arthritis.
+R050,Simulation,88,18,3.0,Simulation,1.0,Retrospective,Y,CardioVision: A fully automated deep learning package for medical image segmentation and reconstruction generating digital twins for patients with aortic stenosis.
+R051,Simulation,88,18,3.0,Simulation,1.0,Retrospective,Y,FedEC-Dia: Explanation-Calibrated Federated Learning for Patient-Level Diabetes Digital Twin Risk Prediction Under Non-IID Healthcare Data.
+R052,Clinical,14,14,,RealWorld,,RealWorld,Y,Rapid Systemwide Implementation of Outpatient Telehealth in Response to the COVID-19 Pandemic.
+R053,Retrospective,38,10,3.0,Retrospective,,Conceptual,N,Mini-review of clinical data service platforms in the era of artificial intelligence: A case study of the iHi data platform.
+R054,Simulation,88,18,3.0,Simulation,0.0,Conceptual,N,[Pulmonary Digital Twins].
+R055,NA/Other,20,6,,,3.0,TechPoC,Y,NeuroIGN: Explainable Multimodal Image-Guided System for Precise Brain Tumor Surgery.
+R056,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,Digital twins and digital models of the human circulatory system.
+R057,Simulation,88,18,3.0,Simulation,1.0,Simulation,Y,Optimizing MRI Scheduling in High-Complexity Hospitals: A Digital Twin and Reinforcement Learning Approach.
+R058,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,A Scoping Review of Digital Twins in the Context of the Covid-19 Pandemic
+R059,Clinical,14,14,0.0,Prospective,0.0,Conceptual,N,The Advent of the Digital Twin: A Prospective in Healthcare in the Next Decade.
+R060,Conceptual,326,42,4.0,Conceptual,3.0,Conceptual,Y,Editor - Human Digital Twin in Ukraine: Converging Digital Health and Digital Education for Next-Generation Telerehabilitation.
+R061,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Digital Twin Technology: The Future of Predicting Neurological Complications of Pediatric Cancers and Their Treatment.
+R062,Retrospective,38,10,3.0,Retrospective,0.0,Conceptual,N,"Digital twin applications in radiology and radiotherapy: Applications, challenges, and future perspectives."
+R063,NA/Other,20,6,3.0,,3.0,TechPoC,Y,Digital twin for intelligent context-aware IoT healthcare systems
+R064,Clinical,14,14,3.0,Prospective,3.0,Prospective,Y,A Semantic Framework for Patient Digital Twins in Chronic Care
+R065,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,Revolutionizing Smart Healthcare
+R066,Retrospective,38,10,3.0,Retrospective,0.0,Conceptual,N,Application of Digital Twin Technology to Enhance Chronic Diseases Management: A Systematic Review.
+R067,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,Y,Design for a Digital Twin in Clinical Patient Care
+R068,Retrospective,38,10,4.0,Retrospective,3.0,Retrospective,Y,DT4PCP: A Digital Twin Framework for Personalized Care Planning Applied to Type 2 Diabetes Management
+R069,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Toward demographic robustness in digital patient twins: Addressing the gender data gap
+R070,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Revolutionizing Healthcare: A Review Unveiling the Transformative Power of Digital Twins
+R071,Retrospective,38,10,0.0,Retrospective,0.0,Conceptual,N,Digital twins in increasing diversity in clinical trials: A systematic review.
+R072,Clinical,14,14,3.0,Prospective,1.0,Retrospective,Y,Multi-modal digital twin model outperforms conventional biomarker stratification in pancreatic cancer.
+R073,Simulation,88,18,3.0,Simulation,1.0,Retrospective,Y,TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model
+R074,Retrospective,38,10,3.0,Retrospective,0.0,Conceptual,N,Human Digital Twins for pervasive healthcare: A scoping review
+R075,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,"AI-powered in silico twins: redefining precision medicine through simulation, personalization, and predictive healthcare"
+R076,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Digital Twins As Global Learning Health and Disease Models for Preventive and Personalized Medicine.
+R077,Conceptual,326,42,3.0,Conceptual,0.0,Conceptual,N,Digital Twins as the Implementation Layer of Precision Medicine in Pediatric Neurosurgery.
+R078,Simulation,88,18,3.0,Simulation,1.0,Simulation,Y,Advantages of digital twin technology in orthopedic trauma Surgery - Exploring different clinical use cases.
+R079,Clinical,14,14,0.0,Prospective,0.0,Conceptual,Y,'Omics-Based Digital Twins for Personalised Paediatric Healthcare.
+R080,Tech PoC,30,10,3.0,TechPoC,1.0,Simulation,Y,Toward Digital Twin Technology for Precision Pharmacology.
+R081,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Unlocking the potentials of digital twins for optimal healthcare delivery in Africa.
+R082,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,A vision: in silico clinical trials without patients
+R083,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Position Paper From the Digital Twins in Healthcare to the Virtual Human Twin: A Moon-Shot Project for Digital Health Research
+R084,Tech PoC,30,10,4.0,TechPoC,4.0,TechPoC,Y,Human Digital Twin for Fitness Management
+R085,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Artificial intelligence models in digital twins for health and well-being
+R086,Clinical,14,14,3.0,Prospective,0.0,Conceptual,N,"Implementing digital twin technology in organ transplantation: Concepts, emerging evidence, and clinical translation pathways."
+R087,Clinical,14,14,3.0,RealWorld,1.0,Retrospective,Y,Patient-Centric Digital Twin Framework with Hybrid Knowledge Distillation for Federated Class-Incremental Learning in Precision Medicine.
+R088,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,A Comprehensive Survey on Surgical Digital Twin
+R089,Conceptual,326,42,4.0,Conceptual,0.0,Conceptual,N,Integrating mechanism-based modeling with biomedical imaging to build practical digital twins for clinical oncology
+R090,Simulation,88,18,4.0,Simulation,3.0,TechPoC,Y,TumorTwin: a Python framework for patient-specific digital twins in oncology.
+R091,NA/Other,20,6,2.0,,1.0,Simulation,Y,Development of Design-Phase Digital Twin for Structural Optimization of a Biomedical Device.
+R092,NA/Other,20,6,3.0,,3.0,TechPoC,Y,A discrete event simulation-based methodology for building a digital twin of patient pathways in the hospital for near real-time monitoring and predictive simulation
+R093,Simulation,88,18,0.0,Simulation,0.0,Conceptual,N,Digital twins for in silico clinical trials using modelling and simulation
+R094,NA/Other,20,6,5.0,,4.0,Prospective,Y,Human digital twin for personalized elderly type 2 diabetes management
+R095,Conceptual,326,42,4.0,Conceptual,4.0,Conceptual,Y,Digital Twins for Just-in-Time Adaptive Interventions (JITAIs): Framework for Optimizing and Continually Improving JITAIs.
+R096,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Challenges and Innovations in the Creation of Digital Twins in Healthcare
+R097,Simulation,88,18,3.0,Simulation,3.0,TechPoC,Y,A Novel Medical Cyber-Physical Systems Based on Digital Twin-Driven Platform
+R098,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,Literature review of digital twin in healthcare
+R099,Conceptual,326,42,0.0,Conceptual,0.0,Conceptual,N,"Digital Twins for Healthcare 4.0 - Recent Advances, Architecture, and Open Challenges"
+R100,Tech PoC,30,10,3.0,TechPoC,3.0,TechPoC,Y,Towards a Design Ecosystem for a Personal Digital Twin for Well-Being

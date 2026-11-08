@@ -1,0 +1,35 @@
+import matplotlib; matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib.patches import FancyBboxPatch
+plt.rcParams['font.family']='DejaVu Sans'
+fig,ax=plt.subplots(figsize=(8.5,11)); ax.set_xlim(0,100); ax.set_ylim(0,130); ax.axis('off')
+def box(x,y,w,h,t,fc='#ffffff',ec='#2b4a6f',fs=9,bold=False):
+    ax.add_patch(FancyBboxPatch((x,y),w,h,boxstyle='round,pad=0.3,rounding_size=1',fc=fc,ec=ec,lw=1.2))
+    ax.text(x+w/2,y+h/2,t,ha='center',va='center',fontsize=fs,fontweight='bold' if bold else 'normal',linespacing=1.35)
+def arr(x1,y1,x2,y2): ax.annotate('',xy=(x2,y2),xytext=(x1,y1),arrowprops=dict(arrowstyle='-|>',color='#333',lw=1.2))
+def stage(y,h,t,c):
+    ax.add_patch(FancyBboxPatch((1,y),9,h,boxstyle='round,pad=0.2',fc=c,ec='none')); ax.text(5.5,y+h/2,t,rotation=90,ha='center',va='center',color='white',fontsize=9,fontweight='bold')
+stage(106,22,'Identification','#2b4a6f'); stage(52,50,'Screening','#3a7d5c'); stage(26,22,'Eligibility','#8a5a9a'); stage(6,16,'Included','#1c7c7d')
+box(14,110,78,16,'Records identified from 4 sources (n = 1,539)\nPubMed 609  |  SciSpace Deep Search 530\nSciSpace Full Text 200  |  Google Scholar 200',fc='#eef3fa')
+arr(53,110,53,102)
+box(14,91,40,10,'Records after duplicate removal\n(n = 1,028)',fc='#eef7f1')
+box(62,91,32,10,'Duplicates removed (n = 511)\nsame DOI or normalised title',fc='#fdf3e7',ec='#b9722b',fs=8.5)
+arr(54,96,62,96)
+arr(34,91,34,85)
+box(14,76,40,9,'Records screened, title/abstract\n(n = 1,000)',fc='#eef7f1')
+box(62,76,32,9,'Not in reranked top-1,000 set\n(n = 28), no reason stored',fc='#fdf3e7',ec='#b9722b',fs=8.5)
+ax.annotate('',xy=(62,80.5),xytext=(54,80.5),arrowprops=dict(arrowstyle='-|>',color='#333',lw=1.2,linestyle='--'))
+arr(34,76,34,66)
+box(62,53,32,20,'Excluded, title/abstract (n = 289)\nSuperficial DT reference 155\nNon-healthcare domain 58\nNon-scientific/promotional 27\nOutside period/language 16\nDT-in-healthcare criterion failed 13\nScore < 4.0, no criterion flagged 20',fc='#fdf3e7',ec='#b9722b',fs=8)
+box(14,57,40,9,'Passed title/abstract screening\n(n = 711)',fc='#eef7f1')
+ax.annotate('',xy=(62,62.5),xytext=(54,62.5),arrowprops=dict(arrowstyle='-|>',color='#333',lw=1.2))
+arr(34,57,34,45)
+box(14,36,40,9,'Full-text assessment (n = 711)\nAssessed by automated scorer',fc='#f5eff8')
+box(62,28,32,17,'Excluded, full text (n = 29)\nNo evaluation returned,\ndefault score 16\nNon-scientific/promotional 7\nOutside period/language 5\nNon-healthcare domain 1',fc='#fdf3e7',ec='#b9722b',fs=8)
+ax.annotate('',xy=(62,40.5),xytext=(54,40.5),arrowprops=dict(arrowstyle='-|>',color='#333',lw=1.2))
+arr(34,36,34,22)
+box(14,8,78,13,'Studies included in evidence map (n = 682)\nFull-text PDF flagged: 63 (9.2%)\nClassified from abstract/metadata: 619 (90.8%)',fc='#e6f4f4',ec='#1c7c7d',bold=True)
+ax.text(14,2.5,'Counts from the raw SciSpace export. Primary reason = highest-priority criterion flagged. Screening by automated scorer\n(cut-offs 4.0 and 4.5 of 5); no human second reviewer.',fontsize=7,color='#555',va='center')
+fig.savefig('Fig1_PRISMA_corrected_v2.png',dpi=600,bbox_inches='tight',facecolor='white'); plt.close()
+from PIL import Image
+im=Image.open('Fig1_PRISMA_corrected_v2.png'); print(im.size); im.thumbnail((900,1100)); im.save('p1v2.png')
