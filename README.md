@@ -20,4 +20,7 @@ Data and code for the manuscript *Claimed Maturity versus Demonstrated Evidence 
 Publisher full texts (PDF / XML) are not included for copyright reasons.
 
 ## Licence
-Add a licence before making the repository public (suggested: CC BY 4.0 for data, MIT for code).
+- Data (`data/` and `validation/`): [CC BY 4.0](LICENSES/CC-BY-4.0.txt).
+- Code (`code/`): [MIT](LICENSES/MIT.txt).
+
+Copyright (c) 2026 Umut Saray. See [licensing and attribution details](LICENSE.md).
